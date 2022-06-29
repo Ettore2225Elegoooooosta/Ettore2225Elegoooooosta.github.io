@@ -1,4 +1,10 @@
 body{
     background-color:aqua;
     color:tomato;
+
+}
+
+h1{
+    font-size: 5em;
+    color:darkblue;
 }
